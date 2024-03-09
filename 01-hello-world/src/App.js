@@ -3,11 +3,10 @@ import './App.css';
 let HelloWorld = () => {
   return (
     <div className="HelloWorldContainer">
-      <h1>Hello World!</h1>
+      <h1>Hello, World!</h1>
     </div>
   )
 }
-
 
 function App() {
   return (
