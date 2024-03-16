@@ -8,7 +8,6 @@ function Counter() {
     <div
      id="div"
      >
-
       <p>{counter}</p>
       <button onClick={() => startingValue(counter + 1)}>"click me"</button>
     </div>
